@@ -1,7 +1,6 @@
 ### Hello 👋
 
-<!--
-**lvming6816077/lvming6816077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 大家好，我是吕小鸣，热爱分享，坚信实践出真知：
 

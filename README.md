@@ -8,6 +8,6 @@
 - [慕课网讲师](http://www.imooc.com/u/139514)
 - 知乎专栏：[吕小鸣Developer](https://zhuanlan.zhihu.com/c_1145300130113662976)
 - 掘金：[吕小鸣](https://juejin.im/user/591ea3c32f301e006becc1bc)
-- 微信公众号：吕小鸣
+- 微信公众号：吕小鸣Developer
 
 

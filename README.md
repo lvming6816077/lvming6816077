@@ -10,5 +10,3 @@
 - 掘金：[吕小鸣](https://juejin.im/user/591ea3c32f301e006becc1bc)
 - 微信公众号：吕小鸣Developer
 
-
-https://item.jd.com/13349311.html
